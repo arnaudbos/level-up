@@ -1,12 +1,12 @@
 ## Learn a variety of programming paradigms:
 
-- [ ] Write a program in assembly language
-- [ ] Write an application in a functional language
-- [ ] Write an application in an object-oriented language
-- [ ] Write an application in a prototype-based language
-- [ ] Write an application in a logic programming language
-- [ ] Write an application using the Actor model
-- [ ] Write an application in Forth
+- [X] Write a program in assembly language
+- [X] Write an application in a functional language
+- [X] Write an application in an object-oriented language
+- [X] Write an application in a prototype-based language
+- [X] Write an application in a logic programming language
+- [X] Write an application using the Actor model
+- [X] Write an application in Forth
 
 ## Experience the ins and outs of programming for different platforms:
 
