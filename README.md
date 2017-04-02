@@ -1,7 +1,3 @@
-# level-up
-
-The journey also matters
-
 ## Learn a variety of programming paradigms:
 
 - [ ] Write a program in assembly language
