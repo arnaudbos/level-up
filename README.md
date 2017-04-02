@@ -4,19 +4,19 @@ The journey also matters
 
 ## Learn a variety of programming paradigms:
 
-[] Write a program in assembly language
+[ ] Write a program in assembly language
 
-[] Write an application in a functional language
+[ ] Write an application in a functional language
 
-[] Write an application in an object-oriented language
+[ ] Write an application in an object-oriented language
 
-[] Write an application in a prototype-based language
+[ ] Write an application in a prototype-based language
 
-[] Write an application in a logic programming language
+[ ] Write an application in a logic programming language
 
-[] Write an application using the Actor model
+[ ] Write an application using the Actor model
 
-[] Write an application in Forth [C]
+[ ] Write an application in Forth [C]
 
 ## Experience the ins and outs of programming for different platforms:
 
