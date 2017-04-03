@@ -1,0 +1,72 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      <!-- Header -->
+      {{ partial "header" . }}
+      <div class="container">
+        <h3>Level-Up</h3>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <div class="list level-up">
+                  <ul>
+                    <li>
+                      <h5>
+                        <input type="checkbox" class="task-list-item-checkbox" disabled>
+                        <a class="title" style="pointer-events: none;">Todo</a>
+                      </h5>
+                    </li>
+                    <li>
+                      <h5>
+                        <input type="checkbox" class="task-list-item-checkbox" disabled>
+                        <strong>
+                          <a class="title" style="pointer-events: none;">Doing</a>
+                        </strong>
+                      </h5>
+                    </li>
+                    <li>
+                      <h5>
+                        <input type="checkbox" class="task-list-item-checkbox" disabled checked>
+                        <a class="title" style="pointer-events: none; text-decoration: line-through;">Done</a>
+                      </h5>
+                    </li>
+                  </ul>
+                {{ range $i, $el := .Data.Pages.GroupByParam "group" }}
+                {{ if gt (len .Pages) 0 }}
+                  <h3>{{ .Key }}:</h3>
+                  <ul>
+                  {{ range $j, $el := .Pages }}
+                    <li>
+                    {{ if eq .Params.state "todo" }}
+                      <h5>
+                        <input type="checkbox" class="task-list-item-checkbox" disabled>
+                        <a class="title" style="pointer-events: none;">{{ .Title | markdownify }}</a>
+                      </h5>
+                    {{else}}
+                      <h5>
+                        <input type="checkbox" class="task-list-item-checkbox" disabled {{ if eq .Params.state "done" }}checked{{end}}>
+                      {{ if eq .Params.state "doing" }}
+                        <strong>
+                      {{end}}
+                        <a class="fold title" onclick="$('#fold_{{ $i }}_{{ $j }}').toggleClass('hidden');" {{ if eq .Params.state "done" }}style="text-decoration: line-through;"{{end}}>{{ .Title | markdownify }}</a>
+                      {{ if eq .Params.state "doing" }}
+                        </strong>
+                      {{end}}
+                      </h5>
+                      <div id="fold_{{ $i }}_{{ $j }}" class="fold content hidden">
+                        {{ .Description }}
+                      </div>
+                    {{end}}
+                    </li>
+                  {{ end }}
+                  </ul>
+                {{end}}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    {{ partial "footer" . }}
+  </body>
+</html>
