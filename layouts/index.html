@@ -8,6 +8,7 @@
           <div class="panel panel-default">
             <div class="panel-body">
               <div class="list level-up">
+                  <h4>Legend:</h4>
                   <ul>
                     <li>
                       <h5>
@@ -16,18 +17,26 @@
                       </h5>
                     </li>
                     <li>
-                      <h5>
+                      <h5 onclick="$('#fold_doing').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled>
                         <strong>
-                          <a class="title" style="pointer-events: none;">Doing</a>
+                          <a class="title">Doing</a>
                         </strong>
+                        <em>(click for details)</em>
                       </h5>
+                      <div id="fold_doing" class="fold content content-info hidden">
+                        More details about the work in progress.
+                      </div>
                     </li>
                     <li>
-                      <h5>
+                      <h5 onclick="$('#fold_done').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
-                        <a class="title" style="pointer-events: none; text-decoration: line-through;">Done</a>
+                        <a class="title" style="text-decoration: line-through;">Done</a>
+                        <em>(click for details)</em>
                       </h5>
+                      <div id="fold_done" class="fold content content-success hidden">
+                        Description of the work.
+                      </div>
                     </li>
                   </ul>
                 {{ range $i, $el := .Data.Pages.GroupByParam "group" }}
@@ -42,19 +51,25 @@
                         <a class="title" style="pointer-events: none;">{{ .Title | markdownify }}</a>
                       </h5>
                     {{else}}
-                      <h5>
+                      <h5 onclick="$('#fold_{{ $i }}_{{ $j }}').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled {{ if eq .Params.state "done" }}checked{{end}}>
                       {{ if eq .Params.state "doing" }}
                         <strong>
-                      {{end}}
-                        <a class="fold title" onclick="$('#fold_{{ $i }}_{{ $j }}').toggleClass('hidden');" {{ if eq .Params.state "done" }}style="text-decoration: line-through;"{{end}}>{{ .Title | markdownify }}</a>
-                      {{ if eq .Params.state "doing" }}
+                          <a>{{ .Title | markdownify }}</a>
                         </strong>
+                      {{else}}
+                        <a style="text-decoration: line-through;">{{ .Title | markdownify }}</a>
                       {{end}}
                       </h5>
-                      <div id="fold_{{ $i }}_{{ $j }}" class="fold content hidden">
+                      {{ if eq .Params.state "doing" }}
+                      <div id="fold_{{ $i }}_{{ $j }}" class="fold content content-info hidden">
                         {{ .Description }}
                       </div>
+                      {{else}}
+                      <div id="fold_{{ $i }}_{{ $j }}" class="fold content content-success hidden">
+                        {{ .Description }}
+                      </div>
+                      {{end}}
                     {{end}}
                     </li>
                   {{ end }}
