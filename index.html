@@ -9,15 +9,17 @@
     <meta property="og:title" content="Arnaud Bos" />
     <meta property="og:description" content="" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://www.arnaudbos.com/
+    <meta property="og:url" content="http://level-up.arnaudbos.com/" />
+    
+
     <meta name="description" content="My corner of teh interweb.">
-    <link rel="shortcut icon" type="image/x-icon" href="http://www.arnaudbos.com/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="http://level-up.arnaudbos.comimg/favicon.ico">
     <title>Arnaud Bos</title>
     <meta name="generator" content="Hugo 0.17" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
-    <link rel="stylesheet" type="text/css" href="http://www.arnaudbos.com/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="http://level-up.arnaudbos.comcss/main.css" />
     
     <!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -33,7 +35,7 @@
       <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="http://www.arnaudbos.com/"><i class="fa fa-home"></i></a>
+      <a class="navbar-brand" href="http://level-up.arnaudbos.com"><i class="fa fa-home"></i></a>
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
@@ -58,6 +60,7 @@
           <div class="panel panel-default">
             <div class="panel-body">
               <div class="list level-up">
+                  <h4>Legend:</h4>
                   <ul>
                     <li>
                       <h5>
@@ -66,18 +69,26 @@
                       </h5>
                     </li>
                     <li>
-                      <h5>
+                      <h5 onclick="$('#fold_doing').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled>
                         <strong>
-                          <a class="title" style="pointer-events: none;">Doing</a>
+                          <a class="title">Doing</a>
                         </strong>
+                        <em>(click for details)</em>
                       </h5>
+                      <div id="fold_doing" class="fold content content-info hidden">
+                        More details about the work in progress.
+                      </div>
                     </li>
                     <li>
-                      <h5>
+                      <h5 onclick="$('#fold_done').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
-                        <a class="title" style="pointer-events: none; text-decoration: line-through;">Done</a>
+                        <a class="title" style="text-decoration: line-through;">Done</a>
+                        <em>(click for details)</em>
                       </h5>
+                      <div id="fold_done" class="fold content content-success hidden">
+                        Description of the work.
+                      </div>
                     </li>
                   </ul>
                 
@@ -218,15 +229,17 @@
                   
                     <li>
                     
-                      <h5>
+                      <h5 onclick="$('#fold_2_2').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
                       
-                        <a class="fold title" onclick="$('#fold_2_2').toggleClass('hidden');" style="text-decoration: line-through;">Write a nontrivial mobile app</a>
+                        <a style="text-decoration: line-through;">Write a nontrivial mobile app</a>
                       
                       </h5>
-                      <div id="fold_2_2" class="fold content hidden">
+                      
+                      <div id="fold_2_2" class="fold content content-success hidden">
                         Published several Android &amp; iOS apps both as a consultant and as a freelancer.
                       </div>
+                      
                     
                     </li>
                   
@@ -284,15 +297,17 @@
                   
                     <li>
                     
-                      <h5>
+                      <h5 onclick="$('#fold_3_2').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
                       
-                        <a class="fold title" onclick="$('#fold_3_2').toggleClass('hidden');" style="text-decoration: line-through;">Write an application in a functional language</a>
+                        <a style="text-decoration: line-through;">Write an application in a functional language</a>
                       
                       </h5>
-                      <div id="fold_3_2" class="fold content hidden">
+                      
+                      <div id="fold_3_2" class="fold content content-success hidden">
                         Built a data management platform in Clojure at Datasio. Currently working on a Clojure side project.
                       </div>
+                      
                     
                     </li>
                   
@@ -307,29 +322,33 @@
                   
                     <li>
                     
-                      <h5>
+                      <h5 onclick="$('#fold_3_4').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
                       
-                        <a class="fold title" onclick="$('#fold_3_4').toggleClass('hidden');" style="text-decoration: line-through;">Write an application in a prototype-based language</a>
+                        <a style="text-decoration: line-through;">Write an application in a prototype-based language</a>
                       
                       </h5>
-                      <div id="fold_3_4" class="fold content hidden">
+                      
+                      <div id="fold_3_4" class="fold content content-success hidden">
                         Worked on the JavaScript/AngularJS frontend part of a mutual health insurance app as a consultant.
                       </div>
+                      
                     
                     </li>
                   
                     <li>
                     
-                      <h5>
+                      <h5 onclick="$('#fold_3_5').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
                       
-                        <a class="fold title" onclick="$('#fold_3_5').toggleClass('hidden');" style="text-decoration: line-through;">Write an application in an object-oriented language</a>
+                        <a style="text-decoration: line-through;">Write an application in an object-oriented language</a>
                       
                       </h5>
-                      <div id="fold_3_5" class="fold content hidden">
+                      
+                      <div id="fold_3_5" class="fold content content-success hidden">
                         Worked on a mutual health insurance Java application as a consultant.
                       </div>
+                      
                     
                     </li>
                   
@@ -351,15 +370,17 @@
                   
                     <li>
                     
-                      <h5>
+                      <h5 onclick="$('#fold_4_0').toggleClass('hidden');">
                         <input type="checkbox" class="task-list-item-checkbox" disabled checked>
                       
-                        <a class="fold title" onclick="$('#fold_4_0').toggleClass('hidden');" style="text-decoration: line-through;">Deliver a training course</a>
+                        <a style="text-decoration: line-through;">Deliver a training course</a>
                       
                       </h5>
-                      <div id="fold_4_0" class="fold content hidden">
+                      
+                      <div id="fold_4_0" class="fold content content-success hidden">
                         Gave Android and JavaScript training courses.
                       </div>
+                      
                     
                     </li>
                   
@@ -482,7 +503,7 @@
   <div id="footer">
     <div class="container">
       <p class="text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io/">Hugo</a> and
-      <a href="http://www.github.com/sumaxime/hugo-sustain/">sustain</a> with ♥</p>
+      <a href="http://www.github.com/arnaudbos/hugo-sustain/">sustain</a> with ♥</p>
     </div>
   </div>
 </footer>
@@ -504,10 +525,10 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="http://www.arnaudbos.com/js/docs.min.js"></script>
-<script src="http://www.arnaudbos.com/js/main.js"></script>
+<script src="http://level-up.arnaudbos.comjs/docs.min.js"></script>
+<script src="http://level-up.arnaudbos.comjs/main.js"></script>
 
-<script src="http://www.arnaudbos.com/js/ie10-viewport-bug-workaround.js"></script>
+<script src="http://level-up.arnaudbos.comjs/ie10-viewport-bug-workaround.js"></script>
 
 <!-- EmojiOne -->
 <script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js"></script>
