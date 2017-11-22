@@ -6,8 +6,17 @@
     <description>Recent content on Arnaud Bos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Apr 2017 22:48:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2017 05:35:27 +0100</lastBuildDate>
     <atom:link href="http://level-up.arnaudbos.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Write a nontrivial data intensive system</title>
+      <link>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</link>
+      <pubDate>Wed, 22 Nov 2017 05:35:27 +0100</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attend a code retreat</title>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
       
       <guid>http://level-up.arnaudbos.com/publish-open-source-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Read SICP and complete all the exercises</title>
-      <link>http://level-up.arnaudbos.com/read-sicp/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/read-sicp/</guid>
       <description></description>
     </item>
     

@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://level-up.arnaudbos.com/</loc>
-    <lastmod>2017-04-02T22:48:21+01:00</lastmod>
+    <lastmod>2017-11-22T05:35:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</loc>
+    <lastmod>2017-11-22T05:35:27+01:00</lastmod>
   </url>
   
   <url>
@@ -87,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://level-up.arnaudbos.com/write-btree-database/</loc>
+    <loc>http://level-up.arnaudbos.com/write-database/</loc>
     <lastmod>2017-04-02T22:48:21+01:00</lastmod>
   </url>
   
@@ -117,6 +122,11 @@
   </url>
   
   <url>
+    <loc>http://level-up.arnaudbos.com/write-nontrivial-realtime-data-intensive-app/</loc>
+    <lastmod>2017-04-02T22:48:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://level-up.arnaudbos.com/write-nontrivial-web-app/</loc>
     <lastmod>2017-04-02T22:48:21+01:00</lastmod>
   </url>
@@ -133,11 +143,6 @@
   
   <url>
     <loc>http://level-up.arnaudbos.com/write-programming-language/</loc>
-    <lastmod>2017-04-02T22:48:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://level-up.arnaudbos.com/write-realtime-system/</loc>
     <lastmod>2017-04-02T22:48:21+01:00</lastmod>
   </url>
   
@@ -178,11 +183,6 @@
   
   <url>
     <loc>http://level-up.arnaudbos.com/write-application-using-actor-model/</loc>
-    <lastmod>2017-04-02T22:48:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://level-up.arnaudbos.com/write-embedded-app/</loc>
     <lastmod>2017-04-02T22:48:21+01:00</lastmod>
   </url>
   
