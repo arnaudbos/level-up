@@ -6,141 +6,157 @@
     <description>Recent content on Arnaud Bos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Nov 2017 05:35:27 +0100</lastBuildDate>
     <atom:link href="http://level-up.arnaudbos.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Write a nontrivial data intensive system</title>
-      <link>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</link>
-      <pubDate>Wed, 22 Nov 2017 05:35:27 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attend a code retreat</title>
-      <link>http://level-up.arnaudbos.com/attend-code-retreat/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/attend-code-retreat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Complete five code katas</title>
-      <link>http://level-up.arnaudbos.com/complete-5-code-katas/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/complete-5-code-katas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Complete the programming koans for a language that you want to learn</title>
-      <link>http://level-up.arnaudbos.com/complete-programming-koans/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/complete-programming-koans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contribute to an open source project</title>
+      <title>1- Contribute to an Apache project</title>
       <link>http://level-up.arnaudbos.com/contribute-open-source/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/contribute-open-source/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deliver a training course</title>
+      <title>1- Deliver a training course</title>
       <link>http://level-up.arnaudbos.com/deliver-training-course/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/deliver-training-course/</guid>
-      <description></description>
+      <description>&lt;p&gt;1/ Gave Android and JavaScript training courses.&lt;/p&gt;
+
+&lt;p&gt;2/ Flink coach during the MonkeyTechDay #6 &amp;ldquo;Flink vs Kafka Streams&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Earn commit rights on a significant open source project</title>
-      <link>http://level-up.arnaudbos.com/earn-commit-rights/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <title>1- Read SICP and complete all the exercises</title>
+      <link>http://level-up.arnaudbos.com/books-sicp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/earn-commit-rights/</guid>
+      <guid>http://level-up.arnaudbos.com/books-sicp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Have a patch accepted</title>
-      <link>http://level-up.arnaudbos.com/have-patch-accepted/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <title>1- Write a nontrivial data intensive system</title>
+      <link>http://level-up.arnaudbos.com/write-nontrivial-data-intensive-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/have-patch-accepted/</guid>
-      <description></description>
+      <guid>http://level-up.arnaudbos.com/write-nontrivial-data-intensive-app/</guid>
+      <description>&lt;p&gt;1/ Building the data management subsystem of the Copernicus Data and Information Access Services (DIAS),&lt;br /&gt;
+a European cloud service for image processing&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Perform a Refactotum of an open source project</title>
-      <link>http://level-up.arnaudbos.com/perform-refactotum-of-open-source-project/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <title>1- Write an LSM database</title>
+      <link>http://level-up.arnaudbos.com/write-lsm-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/perform-refactotum-of-open-source-project/</guid>
+      <guid>http://level-up.arnaudbos.com/write-lsm-database/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Present a lightning talk</title>
+      <title>1- Write an application in an object-oriented language</title>
+      <link>http://level-up.arnaudbos.com/write-application-in-object-oriented-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-application-in-object-oriented-language/</guid>
+      <description>&lt;p&gt;1/ Lead dev Python at Adaptive&lt;/p&gt;
+
+&lt;p&gt;2/ Worked on a mutual health insurance in Java&lt;/p&gt;
+
+&lt;p&gt;3/ Building the datastore of the Copernicus Data and Information Access Services in Java&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2- Present a lightning talk</title>
       <link>http://level-up.arnaudbos.com/present-lightning-talk/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/present-lightning-talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Present at a conference</title>
+      <title>2- Write a nontrivial realtime system</title>
+      <link>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2- Write an B-tree database</title>
+      <link>http://level-up.arnaudbos.com/write-b-tree-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-b-tree-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2- Write an application in a prototype-based language</title>
+      <link>http://level-up.arnaudbos.com/write-application-in-prototype-based-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-application-in-prototype-based-language/</guid>
+      <description>&lt;p&gt;1/ Worked on the JavaScript/AngularJS frontend part of a mutual health insurance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3- Present at a conference</title>
       <link>http://level-up.arnaudbos.com/present-at-conference/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/present-at-conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Present at a local user group</title>
+      <title>3- Write an HTTP client</title>
+      <link>http://level-up.arnaudbos.com/write-http-client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-http-client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3- Write an application in a functional language</title>
+      <link>http://level-up.arnaudbos.com/write-application-in-functional-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://level-up.arnaudbos.com/write-application-in-functional-language/</guid>
+      <description>&lt;p&gt;1/ Built a data management platform in Clojure&lt;/p&gt;
+
+&lt;p&gt;2/ Currently working on a Clojure side project&lt;/p&gt;
+
+&lt;p&gt;3/ Using Java 8 and Vavr on the Copernicus Data and Information Access Services&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4- Present at a local user group</title>
       <link>http://level-up.arnaudbos.com/present-at-local-user-group/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/present-at-local-user-group/</guid>
-      <description></description>
+      <description>&lt;p&gt;See &lt;a href=&#34;http://talks.arnaudbos.com&#34;&gt;&amp;ldquo;TALKS&amp;rdquo;&lt;/a&gt; at the top of the page&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publish a constructive code review of an open source project</title>
-      <link>http://level-up.arnaudbos.com/publish-code-review-of-open-source-project/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
+      <title>4- Write a programming language</title>
+      <link>http://level-up.arnaudbos.com/write-programming-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/publish-code-review-of-open-source-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publish a tutorial</title>
-      <link>http://level-up.arnaudbos.com/publish-tutorial/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/publish-tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publish an open source project</title>
-      <link>http://level-up.arnaudbos.com/publish-open-source-project/</link>
-      <pubDate>Sun, 02 Apr 2017 22:48:21 +0100</pubDate>
-      
-      <guid>http://level-up.arnaudbos.com/publish-open-source-project/</guid>
+      <guid>http://level-up.arnaudbos.com/write-programming-language/</guid>
       <description></description>
     </item>
     
