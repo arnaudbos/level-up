@@ -1,7 +1,5 @@
 ---
-title: Present at a conference
-date: 2017-04-02T22:48:21+01:00
-description: Programming achievements
+title: 3- Present at a conference
 parent: level-up
 group: "Learn by teaching others"
 state: "todo"

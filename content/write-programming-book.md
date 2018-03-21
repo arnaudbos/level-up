@@ -1,7 +1,5 @@
 ---
-title: Write a programming book
-date: 2017-04-02T22:48:21+01:00
-description: Programming achievements
+title: 6- Write a programming book
 parent: level-up
 group: "Learn by teaching others"
 state: "todo"

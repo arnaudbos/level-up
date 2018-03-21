@@ -63,11 +63,11 @@
                       </h5>
                       {{ if eq .Params.state "doing" }}
                       <div id="fold_{{ $i }}_{{ $j }}" class="fold content content-info hidden">
-                        {{ .Description }}
+                        {{ .Content }}
                       </div>
                       {{else}}
                       <div id="fold_{{ $i }}_{{ $j }}" class="fold content content-success hidden">
-                        {{ .Description }}
+                        {{ .Content }}
                       </div>
                       {{end}}
                     {{end}}

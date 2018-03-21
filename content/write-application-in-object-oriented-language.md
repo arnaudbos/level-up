@@ -1,8 +1,12 @@
 ---
-title: Write an application in an object-oriented language
-date: 2017-04-02T22:48:21+01:00
-description: Worked on a mutual health insurance Java application as a consultant.
+title: 1- Write an application in an object-oriented language
 parent: level-up
 group: "Learn a variety of programming paradigms"
 state: "done"
 ---
+
+1/ Lead dev Python at Adaptive
+
+2/ Worked on a mutual health insurance in Java
+
+3/ Building the datastore of the Copernicus Data and Information Access Services in Java

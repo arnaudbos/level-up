@@ -1,8 +1,12 @@
 ---
-title: Write an application in a functional language
-date: 2017-04-02T22:48:21+01:00
-description: Built a data management platform in Clojure at Datasio. Currently working on a Clojure side project.
+title: 3- Write an application in a functional language
 parent: level-up
 group: "Learn a variety of programming paradigms"
 state: "done"
 ---
+
+1/ Built a data management platform in Clojure
+
+2/ Currently working on a Clojure side project
+
+3/ Using Java 8 and Vavr on the Copernicus Data and Information Access Services

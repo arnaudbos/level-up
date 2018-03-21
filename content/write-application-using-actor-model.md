@@ -1,7 +1,5 @@
 ---
-title: Write an application using the Actor model
-date: 2017-04-02T22:48:21+01:00
-description: Programming achievements
+title: 5- Write an application using the Actor model
 parent: level-up
 group: "Learn a variety of programming paradigms"
 state: "todo"

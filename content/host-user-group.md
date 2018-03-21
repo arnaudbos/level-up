@@ -1,6 +1,6 @@
 ---
-title: 2- Present a lightning talk
+title: 5- Host a user group
 parent: level-up
 group: "Learn by teaching others"
-state: "todo"
+state: "done"
 ---
