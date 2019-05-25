@@ -7,6 +7,6 @@ state: "done"
 
 1/ Lead dev Python at Adaptive
 
-2/ Worked on a mutual health insurance in Java
+2/ Worked on a mutual health insurance in Java 7
 
-3/ Building the datastore of the Copernicus Data and Information Access Services in Java
+3/ Built the datastore of the Copernicus Data and Information Access Services in Java 8->11
