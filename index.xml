@@ -25,8 +25,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/deliver-training-course/</guid>
-      <description>1/ Gave Android and JavaScript training courses.
-2/ Flink coach during the MonkeyTechDay #6 &amp;ldquo;Flink vs Kafka Streams&amp;rdquo;.</description>
+      <description>1/ Gave Android and JavaScript training courses (pre-2018).
+2/ Flink coach during the MonkeyTechDay #6 (2018) &amp;ldquo;Flink vs Kafka Streams&amp;rdquo;.
+3/ Clojure trainer at Voxxed Days Cluj-Napoca 2019.
+3/ Kafka &amp;amp; Kafka Streams trainer at Snowcamp Grenoble 2020.</description>
     </item>
     
     <item>
@@ -65,7 +67,7 @@ a European cloud service for image processing (now called Sobloo).</description>
       <guid>http://level-up.arnaudbos.com/write-application-in-object-oriented-language/</guid>
       <description>1/ Lead dev Python at Adaptive
 2/ Worked on a mutual health insurance in Java 7
-3/ Built the datastore of the Copernicus Data and Information Access Services in Java 8-&amp;gt;11</description>
+3/ Built a Java 8-&amp;gt;11 application for the Space industry</description>
     </item>
     
     <item>
@@ -111,7 +113,7 @@ a European cloud service for image processing (now called Sobloo).</description>
       
       <guid>http://level-up.arnaudbos.com/write-application-in-prototype-based-language/</guid>
       <description>1/ Worked on the JavaScript/AngularJS frontend part of a mutual health insurance
-2/ Don&amp;rsquo;t want to do it again, ever</description>
+2/ Don&amp;rsquo;t want to do it again. Ever.</description>
     </item>
     
     <item>
@@ -140,7 +142,7 @@ a European cloud service for image processing (now called Sobloo).</description>
       <guid>http://level-up.arnaudbos.com/write-application-in-functional-language/</guid>
       <description>1/ Built a data management platform in Clojure
 2/ Still working on a Clojure side project(s)
-3/ Used Java 8-&amp;gt;11 and Vavr on the Copernicus Data and Information Access Services</description>
+3/ Used Java 8-&amp;gt;11, Vavr, Reactor, etc, heavily for the Space industry</description>
     </item>
     
     <item>
@@ -176,8 +178,7 @@ a European cloud service for image processing (now called Sobloo).</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://level-up.arnaudbos.com/host-user-group/</guid>
-      <description>1/ Flink coach during the MonkeyTechDay #6 &amp;ldquo;Flink vs Kafka Streams&amp;rdquo;.
-2/ Host of the monthly Toulouse JUG where I handle most of the planning and content production sutff.</description>
+      <description>Toulouse JUG Leader since late 2018.</description>
     </item>
     
     <item>
