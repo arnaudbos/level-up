@@ -9,4 +9,4 @@ state: "done"
 
 2/ Still working on a Clojure side project(s)
 
-3/ Used Java 8->11 and Vavr on the Copernicus Data and Information Access Services
+3/ Used Java 8->11, Vavr, Reactor, etc, heavily for the Space industry

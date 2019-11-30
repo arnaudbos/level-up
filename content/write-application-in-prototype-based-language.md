@@ -7,4 +7,4 @@ state: "done"
 
 1/ Worked on the JavaScript/AngularJS frontend part of a mutual health insurance
 
-2/ Don't want to do it again, ever
+2/ Don't want to do it again. Ever.

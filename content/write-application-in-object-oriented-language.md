@@ -9,4 +9,4 @@ state: "done"
 
 2/ Worked on a mutual health insurance in Java 7
 
-3/ Built the datastore of the Copernicus Data and Information Access Services in Java 8->11
+3/ Built a Java 8->11 application for the Space industry
