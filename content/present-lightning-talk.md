@@ -5,4 +5,4 @@ group: "Learn by teaching others"
 state: "done"
 ---
 
-See ["TALKS"](http://talks.arnaudbos.com) at the top of the page
+See ["TALKS"](https://talks.arnaudbos.com) at the top of the page
