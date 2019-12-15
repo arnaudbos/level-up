@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arnaud Bos</title>
-    <link>http://level-up.arnaudbos.com/</link>
+    <link>https://level-up.arnaudbos.com/</link>
     <description>Recent content on Arnaud Bos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://level-up.arnaudbos.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://level-up.arnaudbos.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1- Become core contributor to an open source project</title>
-      <link>http://level-up.arnaudbos.com/contribute-open-source/</link>
+      <link>https://level-up.arnaudbos.com/contribute-open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/contribute-open-source/</guid>
+      <guid>https://level-up.arnaudbos.com/contribute-open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1- Deliver a training course</title>
-      <link>http://level-up.arnaudbos.com/deliver-training-course/</link>
+      <link>https://level-up.arnaudbos.com/deliver-training-course/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/deliver-training-course/</guid>
+      <guid>https://level-up.arnaudbos.com/deliver-training-course/</guid>
       <description>1/ Gave Android and JavaScript training courses (pre-2018).
 2/ Flink coach during the MonkeyTechDay #6 (2018) &amp;ldquo;Flink vs Kafka Streams&amp;rdquo;.
 3/ Clojure trainer at Voxxed Days Cluj-Napoca 2019.
@@ -33,38 +33,38 @@
     
     <item>
       <title>1- Read SICP and complete all the exercises</title>
-      <link>http://level-up.arnaudbos.com/books-sicp/</link>
+      <link>https://level-up.arnaudbos.com/books-sicp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/books-sicp/</guid>
+      <guid>https://level-up.arnaudbos.com/books-sicp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1- Write a nontrivial data intensive system</title>
-      <link>http://level-up.arnaudbos.com/write-nontrivial-data-intensive-app/</link>
+      <link>https://level-up.arnaudbos.com/write-nontrivial-data-intensive-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-nontrivial-data-intensive-app/</guid>
+      <guid>https://level-up.arnaudbos.com/write-nontrivial-data-intensive-app/</guid>
       <description>1/ Built the data management subsystem of the Copernicus Data and Information Access Services (DIAS),
 a European cloud service for image processing (now called Sobloo).</description>
     </item>
     
     <item>
       <title>1- Write an LSM database</title>
-      <link>http://level-up.arnaudbos.com/write-lsm-database/</link>
+      <link>https://level-up.arnaudbos.com/write-lsm-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-lsm-database/</guid>
+      <guid>https://level-up.arnaudbos.com/write-lsm-database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1- Write an application in an object-oriented language</title>
-      <link>http://level-up.arnaudbos.com/write-application-in-object-oriented-language/</link>
+      <link>https://level-up.arnaudbos.com/write-application-in-object-oriented-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-application-in-object-oriented-language/</guid>
+      <guid>https://level-up.arnaudbos.com/write-application-in-object-oriented-language/</guid>
       <description>1/ Lead dev Python at Adaptive
 2/ Worked on a mutual health insurance in Java 7
 3/ Built a Java 8-&amp;gt;11 application for the Space industry</description>
@@ -72,74 +72,74 @@ a European cloud service for image processing (now called Sobloo).</description>
     
     <item>
       <title>2- Present a lightning talk</title>
-      <link>http://level-up.arnaudbos.com/present-lightning-talk/</link>
+      <link>https://level-up.arnaudbos.com/present-lightning-talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/present-lightning-talk/</guid>
+      <guid>https://level-up.arnaudbos.com/present-lightning-talk/</guid>
       <description>See &amp;ldquo;TALKS&amp;rdquo; at the top of the page</description>
     </item>
     
     <item>
       <title>2- Publish and maintain a non-toy library</title>
-      <link>http://level-up.arnaudbos.com/contribute-non-trivial-library/</link>
+      <link>https://level-up.arnaudbos.com/contribute-non-trivial-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/contribute-non-trivial-library/</guid>
+      <guid>https://level-up.arnaudbos.com/contribute-non-trivial-library/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2- Write a nontrivial realtime system</title>
-      <link>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</link>
+      <link>https://level-up.arnaudbos.com/write-nontrivial-realtime-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-nontrivial-realtime-system/</guid>
+      <guid>https://level-up.arnaudbos.com/write-nontrivial-realtime-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2- Write an B-tree database</title>
-      <link>http://level-up.arnaudbos.com/write-b-tree-database/</link>
+      <link>https://level-up.arnaudbos.com/write-b-tree-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-b-tree-database/</guid>
+      <guid>https://level-up.arnaudbos.com/write-b-tree-database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2- Write an application in a prototype-based language</title>
-      <link>http://level-up.arnaudbos.com/write-application-in-prototype-based-language/</link>
+      <link>https://level-up.arnaudbos.com/write-application-in-prototype-based-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-application-in-prototype-based-language/</guid>
+      <guid>https://level-up.arnaudbos.com/write-application-in-prototype-based-language/</guid>
       <description>1/ Worked on the JavaScript/AngularJS frontend part of a mutual health insurance
 2/ Don&amp;rsquo;t want to do it again. Ever.</description>
     </item>
     
     <item>
       <title>3- Present at a conference</title>
-      <link>http://level-up.arnaudbos.com/present-at-conference/</link>
+      <link>https://level-up.arnaudbos.com/present-at-conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/present-at-conference/</guid>
+      <guid>https://level-up.arnaudbos.com/present-at-conference/</guid>
       <description>See &amp;ldquo;TALKS&amp;rdquo; at the top of the page</description>
     </item>
     
     <item>
       <title>3- Write an HTTP client</title>
-      <link>http://level-up.arnaudbos.com/write-http-client/</link>
+      <link>https://level-up.arnaudbos.com/write-http-client/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-http-client/</guid>
+      <guid>https://level-up.arnaudbos.com/write-http-client/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3- Write an application in a functional language</title>
-      <link>http://level-up.arnaudbos.com/write-application-in-functional-language/</link>
+      <link>https://level-up.arnaudbos.com/write-application-in-functional-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-application-in-functional-language/</guid>
+      <guid>https://level-up.arnaudbos.com/write-application-in-functional-language/</guid>
       <description>1/ Built a data management platform in Clojure
 2/ Still working on a Clojure side project(s)
 3/ Used Java 8-&amp;gt;11, Vavr, Reactor, etc, heavily for the Space industry</description>
@@ -147,73 +147,73 @@ a European cloud service for image processing (now called Sobloo).</description>
     
     <item>
       <title>4- Present at a local user group</title>
-      <link>http://level-up.arnaudbos.com/present-at-local-user-group/</link>
+      <link>https://level-up.arnaudbos.com/present-at-local-user-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/present-at-local-user-group/</guid>
+      <guid>https://level-up.arnaudbos.com/present-at-local-user-group/</guid>
       <description>See &amp;ldquo;TALKS&amp;rdquo; at the top of the page</description>
     </item>
     
     <item>
       <title>4- Write a programming language</title>
-      <link>http://level-up.arnaudbos.com/write-programming-language/</link>
+      <link>https://level-up.arnaudbos.com/write-programming-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-programming-language/</guid>
+      <guid>https://level-up.arnaudbos.com/write-programming-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>4- Write an application in a logic programming language</title>
-      <link>http://level-up.arnaudbos.com/write-application-in-logic-programming-language/</link>
+      <link>https://level-up.arnaudbos.com/write-application-in-logic-programming-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-application-in-logic-programming-language/</guid>
+      <guid>https://level-up.arnaudbos.com/write-application-in-logic-programming-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5- Host a user group</title>
-      <link>http://level-up.arnaudbos.com/host-user-group/</link>
+      <link>https://level-up.arnaudbos.com/host-user-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/host-user-group/</guid>
+      <guid>https://level-up.arnaudbos.com/host-user-group/</guid>
       <description>Toulouse JUG Leader since late 2018.</description>
     </item>
     
     <item>
       <title>5- Write an application using the Actor model</title>
-      <link>http://level-up.arnaudbos.com/write-application-using-actor-model/</link>
+      <link>https://level-up.arnaudbos.com/write-application-using-actor-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-application-using-actor-model/</guid>
+      <guid>https://level-up.arnaudbos.com/write-application-using-actor-model/</guid>
       <description>1/ Built a &amp;ldquo;Work-conserving&amp;rdquo;/&amp;ldquo;Multilevel queue&amp;rdquo; hybrid scheduler for an I/O intensive distributed microservice using (Quasar) Fibers, CSP channels and actors.</description>
     </item>
     
     <item>
       <title>6- Write a program in assembly language</title>
-      <link>http://level-up.arnaudbos.com/write-program-in-assembly/</link>
+      <link>https://level-up.arnaudbos.com/write-program-in-assembly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-program-in-assembly/</guid>
+      <guid>https://level-up.arnaudbos.com/write-program-in-assembly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>6- Write a programming book</title>
-      <link>http://level-up.arnaudbos.com/write-programming-book/</link>
+      <link>https://level-up.arnaudbos.com/write-programming-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-programming-book/</guid>
+      <guid>https://level-up.arnaudbos.com/write-programming-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>7- Write an application in Forth</title>
-      <link>http://level-up.arnaudbos.com/write-application-in-forth/</link>
+      <link>https://level-up.arnaudbos.com/write-application-in-forth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://level-up.arnaudbos.com/write-application-in-forth/</guid>
+      <guid>https://level-up.arnaudbos.com/write-application-in-forth/</guid>
       <description></description>
     </item>
     
