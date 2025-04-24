@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -19,11 +19,11 @@
   </url>
   
   <url>
-    <loc>https://level-up.arnaudbos.com/write-lsm-database/</loc>
+    <loc>https://level-up.arnaudbos.com/write-application-in-object-oriented-language/</loc>
   </url>
   
   <url>
-    <loc>https://level-up.arnaudbos.com/write-application-in-object-oriented-language/</loc>
+    <loc>https://level-up.arnaudbos.com/write-lsm-database/</loc>
   </url>
   
   <url>
@@ -39,11 +39,11 @@
   </url>
   
   <url>
-    <loc>https://level-up.arnaudbos.com/write-b-tree-database/</loc>
+    <loc>https://level-up.arnaudbos.com/write-application-in-prototype-based-language/</loc>
   </url>
   
   <url>
-    <loc>https://level-up.arnaudbos.com/write-application-in-prototype-based-language/</loc>
+    <loc>https://level-up.arnaudbos.com/write-b-tree-database/</loc>
   </url>
   
   <url>
@@ -51,11 +51,11 @@
   </url>
   
   <url>
-    <loc>https://level-up.arnaudbos.com/write-http-client/</loc>
+    <loc>https://level-up.arnaudbos.com/write-application-in-functional-language/</loc>
   </url>
   
   <url>
-    <loc>https://level-up.arnaudbos.com/write-application-in-functional-language/</loc>
+    <loc>https://level-up.arnaudbos.com/write-http-client/</loc>
   </url>
   
   <url>
@@ -92,17 +92,14 @@
   
   <url>
     <loc>https://level-up.arnaudbos.com/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://level-up.arnaudbos.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://level-up.arnaudbos.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arnaud Bos</title>
@@ -51,15 +51,6 @@ a European cloud service for image processing (now called Sobloo).</description>
     </item>
     
     <item>
-      <title>1- Write an LSM database</title>
-      <link>https://level-up.arnaudbos.com/write-lsm-database/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://level-up.arnaudbos.com/write-lsm-database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>1- Write an application in an object-oriented language</title>
       <link>https://level-up.arnaudbos.com/write-application-in-object-oriented-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,6 +59,15 @@ a European cloud service for image processing (now called Sobloo).</description>
       <description>1/ Lead dev Python at Adaptive
 2/ Worked on a mutual health insurance in Java 7
 3/ Built a Java 8-&amp;gt;11 application for the Space industry</description>
+    </item>
+    
+    <item>
+      <title>1- Write an LSM database</title>
+      <link>https://level-up.arnaudbos.com/write-lsm-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://level-up.arnaudbos.com/write-lsm-database/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -98,15 +98,6 @@ a European cloud service for image processing (now called Sobloo).</description>
     </item>
     
     <item>
-      <title>2- Write an B-tree database</title>
-      <link>https://level-up.arnaudbos.com/write-b-tree-database/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://level-up.arnaudbos.com/write-b-tree-database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2- Write an application in a prototype-based language</title>
       <link>https://level-up.arnaudbos.com/write-application-in-prototype-based-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -114,6 +105,15 @@ a European cloud service for image processing (now called Sobloo).</description>
       <guid>https://level-up.arnaudbos.com/write-application-in-prototype-based-language/</guid>
       <description>1/ Worked on the JavaScript/AngularJS frontend part of a mutual health insurance
 2/ Don&amp;rsquo;t want to do it again. Ever.</description>
+    </item>
+    
+    <item>
+      <title>2- Write an B-tree database</title>
+      <link>https://level-up.arnaudbos.com/write-b-tree-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://level-up.arnaudbos.com/write-b-tree-database/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -126,15 +126,6 @@ a European cloud service for image processing (now called Sobloo).</description>
     </item>
     
     <item>
-      <title>3- Write an HTTP client</title>
-      <link>https://level-up.arnaudbos.com/write-http-client/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://level-up.arnaudbos.com/write-http-client/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>3- Write an application in a functional language</title>
       <link>https://level-up.arnaudbos.com/write-application-in-functional-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,6 +134,15 @@ a European cloud service for image processing (now called Sobloo).</description>
       <description>1/ Built a data management platform in Clojure
 2/ Still working on a Clojure side project(s)
 3/ Used Java 8-&amp;gt;11, Vavr, Reactor, etc, heavily for the Space industry</description>
+    </item>
+    
+    <item>
+      <title>3- Write an HTTP client</title>
+      <link>https://level-up.arnaudbos.com/write-http-client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://level-up.arnaudbos.com/write-http-client/</guid>
+      <description></description>
     </item>
     
     <item>
